@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Standards Session</title>
+   	<link>../..</link>
+   	<description>Special Invited Session on Rule Standards</description>
+        
+        
+        <item>
+            <title>IMG_3183</title>
+            <link>slides/IMG_3183.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:18 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Paul Vincent on OMG PRR</description>
+            <media:description type="html">Paul Vincent on OMG PRR</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3183.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3183.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3183.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3184</title>
+            <link>slides/IMG_3184.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:18 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Christian de Sainte Marie</description>
+            <media:description type="html">Christian de Sainte Marie</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3184.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3184.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3184.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3185</title>
+            <link>slides/IMG_3185.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:18 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... on RIF PRD</description>
+            <media:description type="html">... on RIF PRD</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3185.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3185.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3185.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3186</title>
+            <link>slides/IMG_3186.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:18 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Mark Linehan</description>
+            <media:description type="html">Mark Linehan</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3186.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3186.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3186.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3187</title>
+            <link>slides/IMG_3187.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:18 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... on SBVR Vocabulary for Date and Time</description>
+            <media:description type="html">... on SBVR Vocabulary for Date and Time</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3187.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3187.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3187.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

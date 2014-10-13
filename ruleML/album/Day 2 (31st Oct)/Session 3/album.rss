@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Session 3</title>
+   	<link>../..</link>
+   	<description>Session 3 - Rule Representation Languages and Reasoning Engines</description>
+        
+        
+        <item>
+            <title>IMG_3242</title>
+            <link>slides/IMG_3242.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Guido Governatori</description>
+            <media:description type="html">Guido Governatori</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3242.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3242.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3242.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3243</title>
+            <link>slides/IMG_3243.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... On Extending RuleML for Modal Defeasible Logic</description>
+            <media:description type="html">... On Extending RuleML for Modal Defeasible Logic</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3243.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3243.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3243.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3244</title>
+            <link>slides/IMG_3244.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>A bunch of logical implications at the back!</description>
+            <media:description type="html">A bunch of logical implications at the back!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3244.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3244.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3244.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3245</title>
+            <link>slides/IMG_3245.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Guido tries to explain them ...</description>
+            <media:description type="html">Guido tries to explain them ...</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3245.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3245.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3245.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3246</title>
+            <link>slides/IMG_3246.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Davide Sottara</description>
+            <media:description type="html">Davide Sottara</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3246.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3246.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3246.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3247</title>
+            <link>slides/IMG_3247.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Adding Uncertainty to a Rete-OO Inference Engine</description>
+            <media:description type="html">on Adding Uncertainty to a Rete-OO Inference Engine</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3247.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3247.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3247.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3249</title>
+            <link>slides/IMG_3249.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... explaining how it can be done</description>
+            <media:description type="html">... explaining how it can be done</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3249.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3249.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3249.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3250</title>
+            <link>slides/IMG_3250.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... through an example</description>
+            <media:description type="html">... through an example</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3250.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3250.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3250.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3251</title>
+            <link>slides/IMG_3251.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Gines Moreno</description>
+            <media:description type="html">Gines Moreno</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3251.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3251.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3251.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3252</title>
+            <link>slides/IMG_3252.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Programming with Fuzzy Logic Rules by using the FLOPER Tool</description>
+            <media:description type="html">on Programming with Fuzzy Logic Rules by using the FLOPER Tool</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3252.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3252.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3252.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3253</title>
+            <link>slides/IMG_3253.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Kirsten Terfloth</description>
+            <media:description type="html">Kirsten Terfloth</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3253.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3253.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3253.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3254</title>
+            <link>slides/IMG_3254.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Ruling networks with RDL: A domain-specific language to task sensor networks</description>
+            <media:description type="html">on Ruling networks with RDL: A domain-specific language to task sensor networks</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3254.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3254.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3254.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3255</title>
+            <link>slides/IMG_3255.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>no little toys today!</description>
+            <media:description type="html">no little toys today!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3255.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3255.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3255.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3256</title>
+            <link>slides/IMG_3256.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:22 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... only theory!</description>
+            <media:description type="html">... only theory!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3256.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3256.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3256.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

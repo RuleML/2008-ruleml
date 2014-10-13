@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>RuleML-2008</title>
+   	<link>.</link>
+   	
+        
+    	<jalbum:link rel="sub" href="Day 1 (30th Oct)/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Day 2 (31st Oct)/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

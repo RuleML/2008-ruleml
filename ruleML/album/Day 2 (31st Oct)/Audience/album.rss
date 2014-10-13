@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Audience</title>
+   	<link>../..</link>
+   	<description>General Views of the audience</description>
+        
+        
+        <item>
+            <title>IMG_3240</title>
+            <link>slides/IMG_3240.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Second day was at the (much bigger and luxurious) Great Hall West Room
+Guio and Patrick in the front, Adrian, Jan, John, and the rest, at the back.</description>
+            <media:description type="html">Second day was at the (much bigger and luxurious) Great Hall West Room
+Guio and Patrick in the front, Adrian, Jan, John, and the rest, at the back.</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3240.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3240.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3240.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3241</title>
+            <link>slides/IMG_3241.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Robert Golan chairing the Special Invited Demo Session</description>
+            <media:description type="html">Robert Golan chairing the Special Invited Demo Session</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3241.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3241.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3241.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3263</title>
+            <link>slides/IMG_3263.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>General view of the audience during the remote keynote by Michael Kifer (if you wonder where is the speaker!)</description>
+            <media:description type="html">General view of the audience during the remote keynote by Michael Kifer (if you wonder where is the speaker!)</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3263.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3263.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3263.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3265</title>
+            <link>slides/IMG_3265.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>General audience view during the second day</description>
+            <media:description type="html">General audience view during the second day</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3265.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3265.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3265.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3266</title>
+            <link>slides/IMG_3266.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>another audience view ...</description>
+            <media:description type="html">another audience view ...</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3266.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3266.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3266.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3268</title>
+            <link>slides/IMG_3268.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and another ...</description>
+            <media:description type="html">... and another ...</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3268.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3268.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3268.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3269</title>
+            <link>slides/IMG_3269.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and another ...</description>
+            <media:description type="html">... and another ...</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3269.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3269.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3269.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3270</title>
+            <link>slides/IMG_3270.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:01 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and one more!</description>
+            <media:description type="html">... and one more!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3270.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3270.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3270.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

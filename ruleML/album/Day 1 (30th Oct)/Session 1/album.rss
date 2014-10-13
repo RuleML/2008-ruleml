@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Session 1</title>
+   	<link>../..</link>
+   	<description>Session 1 - Rule Engineering
+Due to a battery problem and until to get hold on another camera from Valentin Zacharias (many thanks!), we missed most of the speakers of this first session. We are sorry for that!</description>
+        
+        
+        <item>
+            <title>IMG_3178</title>
+            <link>slides/IMG_3178.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:17 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>David Ostrowski</description>
+            <media:description type="html">David Ostrowski</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3178.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3178.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3178.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3181</title>
+            <link>slides/IMG_3181.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:17 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... on strategic planning</description>
+            <media:description type="html">... on strategic planning</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3181.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3181.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3181.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

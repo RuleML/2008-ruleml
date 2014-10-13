@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Session 2</title>
+   	<link>../..</link>
+   	<description>Session 2 - Rule-based Methodologies and Applications in Policies, Electronic Contracts and Security</description>
+        
+        
+        <item>
+            <title>IMG_3208</title>
+            <link>slides/IMG_3208.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:39 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Akhil Kumar</description>
+            <media:description type="html">Akhil Kumar</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3208.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3208.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3208.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3209</title>
+            <link>slides/IMG_3209.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:39 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Massimo Strano</description>
+            <media:description type="html">Massimo Strano</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3209.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3209.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3209.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

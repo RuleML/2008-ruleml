@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Awards</title>
+   	<link>../..</link>
+   	<description>Closing Session &amp; Awards</description>
+        
+        
+        <item>
+            <title>best-paper-award</title>
+            <link>slides/best-paper-award.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:17:10 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Best paper award for Mark Linehan</description>
+            <media:description type="html">Best paper award for Mark Linehan</media:description>
+            
+            <media:thumbnail url="thumbs/best-paper-award.JPG" width="120" height="90"/>
+            <media:content url="slides/best-paper-award.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/best-paper-award.JPG</guid>
+        </item>
+        
+        <item>
+            <title>best-demo-award</title>
+            <link>slides/best-demo-award.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:17:10 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Best demo award for Kirsten Terfloth</description>
+            <media:description type="html">Best demo award for Kirsten Terfloth</media:description>
+            
+            <media:thumbnail url="thumbs/best-demo-award.JPG" width="120" height="90"/>
+            <media:content url="slides/best-demo-award.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/best-demo-award.JPG</guid>
+        </item>
+        
+        <item>
+            <title>worst-demo-award</title>
+            <link>slides/worst-demo-award.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:17:10 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and the funny hat award for Guido!</description>
+            <media:description type="html">... and the funny hat award for Guido!</media:description>
+            
+            <media:thumbnail url="thumbs/worst-demo-award.JPG" width="120" height="90"/>
+            <media:content url="slides/worst-demo-award.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/worst-demo-award.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

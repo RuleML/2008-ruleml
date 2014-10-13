@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Invited Demo Session</title>
+   	<link>../..</link>
+   	<description>Special Invited Demo Session</description>
+        
+        
+        <item>
+            <title>IMG_3237</title>
+            <link>slides/IMG_3237.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:11 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Remore invited demo by Adrian Walker... There is a narrated video playing...</description>
+            <media:description type="html">Remore invited demo by Adrian Walker... There is a narrated video playing...</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3237.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3237.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3237.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3239</title>
+            <link>slides/IMG_3239.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:11 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and Benjamin asks a question through the speaker phone!</description>
+            <media:description type="html">... and Benjamin asks a question through the speaker phone!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3239.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3239.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3239.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

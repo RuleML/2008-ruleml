@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Day 1 (30th Oct)</title>
+   	<link>..</link>
+   	<description>1st day of the Symposium (30th October 2008)</description>
+        
+    	<jalbum:link rel="sub" href="Audience/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="1st day Keynotes/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Session 1/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Standards Session/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Boxed Lunch Panel/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Session 2/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="RuleML-2008 Challenge/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

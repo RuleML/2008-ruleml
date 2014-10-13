@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Day 2 (31st Oct)</title>
+   	<link>..</link>
+   	<description>2nd day of the Symposium (31st October 2008)</description>
+        
+    	<jalbum:link rel="sub" href="Audience/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Invited Demo Session/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="2nd day Keynotes/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Session 3/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Session 4/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Session 5/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="Awards/album.rss" />   	
+    	
+        
+    </channel>
+</rss>

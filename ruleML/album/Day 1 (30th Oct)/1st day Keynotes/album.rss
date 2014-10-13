@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>1st day Keynotes</title>
+   	<link>../..</link>
+   	<description>1st day keynotes (Paul Haley &amp; David Luckham)</description>
+        
+        
+        <item>
+            <title>IMG_3176</title>
+            <link>slides/IMG_3176.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>First keynote by Paul Haley on "Event and Process Semantics will Rule"</description>
+            <media:description type="html">First keynote by Paul Haley on "Event and Process Semantics will Rule"</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3176.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3176.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3176.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3177</title>
+            <link>slides/IMG_3177.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Although a little bit pessimistic ... the talk was really interesting!</description>
+            <media:description type="html">Although a little bit pessimistic ... the talk was really interesting!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3177.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3177.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3177.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3206</title>
+            <link>slides/IMG_3206.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Second keynote by David Luckham on "The Power of Events - An Introduction to Complex Event Processing in Distributed Enterprise Systems"</description>
+            <media:description type="html">Second keynote by David Luckham on "The Power of Events - An Introduction to Complex Event Processing in Distributed Enterprise Systems"</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3206.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3206.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3206.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3207</title>
+            <link>slides/IMG_3207.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:15:14 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... a new insight on the potentials of complex event processing!</description>
+            <media:description type="html">... a new insight on the potentials of complex event processing!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3207.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3207.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3207.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

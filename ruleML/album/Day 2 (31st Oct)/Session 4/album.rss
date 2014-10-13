@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>Session 4</title>
+   	<link>../..</link>
+   	<description>Session 4 - Rule-based Methodologies and Applications in Distributed and Heterogeneous Environments</description>
+        
+        
+        <item>
+            <title>IMG_3280</title>
+            <link>slides/IMG_3280.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Guido again presenting for Antonis Bikakis and grigoris Antoniou</description>
+            <media:description type="html">Guido again presenting for Antonis Bikakis and grigoris Antoniou</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3280.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3280.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3280.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3281</title>
+            <link>slides/IMG_3281.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Local and Distributed Defeasible Reasoning in Multi-Context Systems</description>
+            <media:description type="html">on Local and Distributed Defeasible Reasoning in Multi-Context Systems</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3281.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3281.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3281.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3282</title>
+            <link>slides/IMG_3282.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Benj Craig</description>
+            <media:description type="html">Benj Craig</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3282.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3282.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3282.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3284</title>
+            <link>slides/IMG_3284.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Personal Agents in the Rule Responder Architecture</description>
+            <media:description type="html">on Personal Agents in the Rule Responder Architecture</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3284.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3284.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3284.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3285</title>
+            <link>slides/IMG_3285.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>An overview of rule responder</description>
+            <media:description type="html">An overview of rule responder</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3285.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3285.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3285.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3286</title>
+            <link>slides/IMG_3286.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... and the assigment of roles to chairs</description>
+            <media:description type="html">... and the assigment of roles to chairs</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3286.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3286.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3286.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3287</title>
+            <link>slides/IMG_3287.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Raluca's first slide</description>
+            <media:description type="html">Raluca's first slide</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3287.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3287.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3287.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3288</title>
+            <link>slides/IMG_3288.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Raluca Zaharia</description>
+            <media:description type="html">Raluca Zaharia</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3288.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3288.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3288.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3289</title>
+            <link>slides/IMG_3289.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>on Semi-automatic Composition of Geospatial Web Services Using JBoss Rules</description>
+            <media:description type="html">on Semi-automatic Composition of Geospatial Web Services Using JBoss Rules</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3289.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3289.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3289.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3290</title>
+            <link>slides/IMG_3290.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... being a little anxious at the beginning</description>
+            <media:description type="html">... being a little anxious at the beginning</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3290.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3290.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3290.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3291</title>
+            <link>slides/IMG_3291.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>... but eventually a great talk!</description>
+            <media:description type="html">... but eventually a great talk!</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3291.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3291.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3291.JPG</guid>
+        </item>
+        
+        <item>
+            <title>IMG_3293</title>
+            <link>slides/IMG_3293.html</link>
+            <pubDate>Tue, 11 Nov 2008 13:16:31 +0200</pubDate>
+            <generator>Jalbum 8.0</generator>
+            
+            <description>Paper by Sheng Gao, et al., presented by Ben Craig</description>
+            <media:description type="html">Paper by Sheng Gao, et al., presented by Ben Craig</media:description>
+            
+            <media:thumbnail url="thumbs/IMG_3293.JPG" width="120" height="90"/>
+            <media:content url="slides/IMG_3293.JPG" width="800" height="600"/>
+            
+            <guid isPermaLink="false">slides/IMG_3293.JPG</guid>
+        </item>
+        
+    </channel>
+</rss>

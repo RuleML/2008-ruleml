@@ -1,0 +1,289 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Free version -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="el" xml:lang="el">
+<!-- saved from url=(0014)about:internet -->
+<head>
+<title>RuleML-2008/Day 2 (31st Oct)/Session 3</title>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<meta name="Keywords" content="photo,album,gallery,Session 3" />
+<meta name="Description" content="Session 3 - Rule Representation Languages and Reasoning Engines" />
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=)" />
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=)" />
+
+<script type="text/javascript">
+/* <![CDATA[ */
+function keypress(e) {
+	if(!e) var e = window.event;
+	if(e.keyCode) keyCode = e.keyCode; 
+	else if(e.which) keyCode = e.which;
+	switch(keyCode) {
+		case 8: window.location="../index.html"; return false; break;
+		
+		
+		case 63273: case 36: window.location="index.html"; return false; break;
+		case 63275: case 35: window.location="index.html"; return false; break;
+		case 32: show_down(); setTimeout('show_out()', 200); return false; break;
+		case 13: window.location="slides/IMG_3242.html?show_param=3"; break;
+	}
+	return true;
+}
+function keypresslistener() {
+	if(document.all) document.onkeydown = keypress;
+	else if(document.layers || document.getElementById) document.onkeypress = keypress;
+}
+up0 = new Image(31,31); up0.src = "../../res/up.gif";
+up1 = new Image(31,31); up1.src = "../../res/up1.gif";
+next0 = new Image(31,31); next0.src = "../../res/next.gif";
+next1 = new Image(31,31); next1.src = "../../res/next1.gif";
+prev0 = new Image(31,31); prev0.src = "../../res/prev.gif";
+prev1 = new Image(31,31); prev1.src = "../../res/prev1.gif";
+
+show0 = new Image(31,31);show0.src = "../../res/show.gif";
+show1 = new Image(31,31);show1.src = "../../res/show1.gif";
+stop0 = new Image(31,31);stop0.src = "../../res/stop.gif";
+stop1 = new Image(31,31);stop1.src = "../../res/stop1.gif";
+
+
+var delay = 3;
+function show_over() { 
+	document.getElementById("show").src = show1.src;;
+}
+function show_out() { 
+	document.getElementById("show").src = show0.src;
+}
+function show_down() { 
+	window.location="slides/IMG_3242.html?show_param="+delay;
+}
+function change_delay() { 
+	delay = prompt('delay', 3);
+}
+function redirect() {
+}
+
+
+
+
+
+/* ]]> */
+</script>
+
+
+
+<link rel="stylesheet" type="text/css" href="../../res/styles.css" />
+
+<style type="text/css">
+body { background-image: url(../../res/bg.gif); background-repeat: repeat-x; }
+</style>
+<link rel="alternate" href="album.rss" type="application/rss+xml">
+</head>
+
+<body id="body" onload="keypresslistener();">
+<div style="margin-left:auto; margin-right:auto; padding-bottom:10px; text-align:center;">
+<table style="height:54px;" align="center" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<!-- Header of index pages -->
+<table style="width:816px;" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="width:31px">
+    <a href="../index.html"><img style="border:0;" src="../../res/up.gif" onmouseover="this.src=up1.src" onmouseout="this.src=up0.src" width="31" height="31" title=" Up one level " alt="Up" id="up" /></a></td>
+<td style="width:20px;">
+  <img style="border:0;" src="../../res/hdr_left.gif" alt="" /></td>
+<td style="text-align:left; background:transparent url(../../res/hdr_mid.gif) repeat-x; white-space:nowrap;" class="title"> <a href="../../index.html">RuleML-2008</a> &raquo; <a href="../index.html">Day 2 (31st Oct)</a> &raquo; Session 3 </td>
+<td style="width:20px;">
+  <img style="border:0;" src="../../res/hdr_right.gif" alt="" /></td>
+
+
+<td style="width:31px;"> <!-- Start/Stop slideshow button -->
+  <a href="javascript:void(0)"><img style="border:0;" onmouseover="show_over();" onmouseout="show_out();" onmousedown="show_down();" ondblclick="change_delay();" src="../../res/show.gif" width="31" height="31" title=" Start/Stop slideshow - Double-Click to change speed " alt="Slideshow" id="show" /></a></td>
+</tr></table>
+</td></tr></table>
+<br />
+
+<table style="width:816px;" align="center" class="infotable" cellspacing="0" cellpadding="2">
+
+<tr><td align="center" class="comment">Session 3 - Rule Representation Languages and Reasoning Engines</td></tr>
+
+
+
+</table><br />
+
+
+
+
+<!-- Thumbnail images -->
+
+
+<table align="center" cellspacing="6" cellpadding="0" border="0">
+
+<tr><td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3242.html">
+<img  class="image" src="thumbs/IMG_3242.JPG" width="120" height="90" title=" Guido Governatori " alt="IMG_3242" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3242.html">Guido Governatori</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3243.html">
+<img  class="image" src="thumbs/IMG_3243.JPG" width="120" height="90" title=" ... On Extending RuleML for Modal Defeasible Logic " alt="IMG_3243" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3243.html">... On Extending RuleML for Modal Defeasible Logic</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3244.html">
+<img  class="image" src="thumbs/IMG_3244.JPG" width="120" height="90" title=" A bunch of logical implications at the back! " alt="IMG_3244" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3244.html">A bunch of logical implications at the back!</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3245.html">
+<img  class="image" src="thumbs/IMG_3245.JPG" width="120" height="90" title=" Guido tries to explain them ... " alt="IMG_3245" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3245.html">Guido tries to explain them ...</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3246.html">
+<img  class="image" src="thumbs/IMG_3246.JPG" width="120" height="90" title=" Davide Sottara " alt="IMG_3246" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3246.html">Davide Sottara</a>
+</div>
+</td></tr>
+
+<tr><td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3247.html">
+<img  class="image" src="thumbs/IMG_3247.JPG" width="120" height="90" title=" on Adding Uncertainty to a Rete-OO Inference Engine " alt="IMG_3247" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3247.html">on Adding Uncertainty to a Rete-OO Inference Engine</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3249.html">
+<img  class="image" src="thumbs/IMG_3249.JPG" width="120" height="90" title=" ... explaining how it can be done " alt="IMG_3249" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3249.html">... explaining how it can be done</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3250.html">
+<img  class="image" src="thumbs/IMG_3250.JPG" width="120" height="90" title=" ... through an example " alt="IMG_3250" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3250.html">... through an example</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3251.html">
+<img  class="image" src="thumbs/IMG_3251.JPG" width="120" height="90" title=" Gines Moreno " alt="IMG_3251" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3251.html">Gines Moreno</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3252.html">
+<img  class="image" src="thumbs/IMG_3252.JPG" width="120" height="90" title=" on Programming with Fuzzy Logic Rules by using the FLOPER... " alt="IMG_3252" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3252.html">on Programming with Fuzzy Logic Rules by using the FLOPER...</a>
+</div>
+</td></tr>
+
+<tr><td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3253.html">
+<img  class="image" src="thumbs/IMG_3253.JPG" width="120" height="90" title=" Kirsten Terfloth " alt="IMG_3253" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3253.html">Kirsten Terfloth</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3254.html">
+<img  class="image" src="thumbs/IMG_3254.JPG" width="120" height="90" title=" on Ruling networks with RDL: A domain-specific language... " alt="IMG_3254" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3254.html">on Ruling networks with RDL: A domain-specific language...</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3255.html">
+<img  class="image" src="thumbs/IMG_3255.JPG" width="120" height="90" title=" no little toys today! " alt="IMG_3255" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3255.html">no little toys today!</a>
+</div>
+</td>
+
+<td style="vertical-align:top; text-align:center;"><table width="140" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr><td style="width:140px; height:140px; background:url(../../res/dia.gif); background-repeat:no-repeat; margin-left:auto; margin-right:auto; text-align:center;">
+<a href="slides/IMG_3256.html">
+<img  class="image" src="thumbs/IMG_3256.JPG" width="120" height="90" title=" ... only theory! " alt="IMG_3256" /></a></td></tr>
+</table>
+<div style="width:120px; padding:10px; overflow:hidden; text-align:center;" class="smalltxt">
+<a href="slides/IMG_3256.html">... only theory!</a>
+</div>
+</td>
+
+</tr>
+</table>
+
+
+<br />
+<table style="width:816px;" align="center" class="infotable" cellspacing="0" cellpadding="2">
+
+
+
+
+
+
+<tr><td align="center" class="xsmalltxt"><strong>14</strong> Images | &copy; <a href="http://jalbum.net" title=" JAlbum v8.0.9 - Freeware web photo album generator ">JAlbum</a>&nbsp;&amp;&nbsp;<a href="http://lazaworx.com/" title=" Chameleon v4.41 Black skin by LazaWorx ">Chameleon</a> | <a href="javascript:void(0)" onclick="window.open('../../help.html','Help','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,copyhistory=no,resizable=yes,width=560,height=560')">Help</a></td></tr>
+</table>
+
+
+</div>
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+_jaSkin = "Chameleon";
+_jaStyle = "Black.css";
+_jaVersion = "8.0";
+_jaPageType = "index";
+if (location.href.indexOf("http://") == 0 || location.href.indexOf("https://") == 0) {
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http://jalbum.net/widgets/load.js";
+document.getElementsByTagName("body")[0].appendChild(script);
+}
+//--><!]]></script>
+
+</body>
+</html>
